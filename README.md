@@ -1,2 +1,2 @@
 # webdeveloper
-Solosite Website.
+Sample site Website.
